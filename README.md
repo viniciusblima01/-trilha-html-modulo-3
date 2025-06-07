@@ -1,6 +1,6 @@
 # Módulo 3 - Trilha HTML
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
+**Título:** Recriando Wikipedia, com um layout melhor 
 
 ## Objetivo
 Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
@@ -13,7 +13,6 @@ Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quisere
 Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
 
 ## Links úteis
-- [Download do NVDA](https://www.nvaccess.org/download/)
-- [Wikipedia](https://pt.wikipedia.org/)
+Desafio  concluido , clique aqui  para verificar o resultado  https://viniciusblima01.github.io/-trilha-html-modulo-3/
 
 
